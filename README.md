@@ -1,2 +1,2 @@
-# dip483_t0
-Introduction task AI in Python
+# Bard in Python introduction task
+
